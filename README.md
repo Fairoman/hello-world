@@ -1,10 +1,11 @@
 # hello-world
 Avengers!
 
-Yo wassup everybody!
+Greetings to all,
 
 We are excited to startoff with the React Native journey!
-We are here to kick some ass and save the world.
-Hail Avengers!
+We as Avengers are your heroes and here to safe the world.
 
-hahahhaA!
+Thank you for your support.
+
+Smiles!
